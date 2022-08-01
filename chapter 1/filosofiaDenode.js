@@ -24,5 +24,7 @@ Realizar modulos con solo las funcionalidades necesarias y en el mejor de los ca
 
 //Simplicidad y pragmatismo
 /*
-¿Alguna vez has oído hablar del principio Keep It Simple, Stupid (KISS)? (en español mantenerlo simple y estupido) Richard P. Gabriel,
+¿Alguna vez has oído hablar del principio Keep It Simple, Stupid (KISS)? (en español mantenerlo simple y estupido) Richard P. Gabriel.
+
+Basicamente el mismo titulo lo dice todo, que no busquemos la perfección en cambio mejor es hacer una programación sencilla y muy funcional.
 */
