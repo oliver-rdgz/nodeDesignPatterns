@@ -1,0 +1,1 @@
+/* la importación asincrona se uriliza cuando se quiere cargar un archivo que es muy pesado y se quiere realizar otras operaciones mientras que se carga el archivo*/
